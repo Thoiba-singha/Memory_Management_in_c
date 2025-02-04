@@ -4,4 +4,4 @@ IMPORTANT:
 
 GCC/MINGW/CLANG compilers are required.
 
-Microsoft Visual MVSC compiler not work.
+Microsoft Visual MVSC compiler will not work.
