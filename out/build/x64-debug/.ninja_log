@@ -1,8 +1,0 @@
-# ninja log v6
-7	356	7631324433213080	CMakeFiles/improveVersion.dir/main.c.obj	adced51e29d84e56
-6	1024	7631330114344225	CMakeFiles/improveVersion.dir/src/vector_alloc.cpp.obj	15867d00f3926403
-11	975	7631330114394235	CMakeFiles/improveVersion.dir/src/v_ptr.cpp.obj	9aaa8a56d2154092
-181	2000	7631166480536781	CMakeFiles/improveVersion.dir/src/v_alloc.cpp.obj	b54a02ca45f4099c
-3	147	7631334471193603	build.ninja	fd64db4e37e1fc84
-80	255	7631330797354653	improveVersion.exe	bb32b2b42816119b
-19	79	7631330796743294	CMakeFiles/improveVersion.dir/test.c.obj	7a4350dda5745a06
